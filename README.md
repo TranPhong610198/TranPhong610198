@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,js,nextjs,react,mysql,git,html,css,tailwind,flutter,python,php,c,cpp" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nextjs,react,mysql,git,html,css,tailwind,flutter,ubuntu,kali,php,c,cpp" alt="My Skills" />
 </p>
 
 <br>
