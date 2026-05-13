@@ -33,10 +33,12 @@
 <h3 align="left">📊 GitHub Analytics:</h3>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TranPhong610198&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Phong's GitHub Stats" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranPhong610198&theme=transparent" alt="Phong's Profile Details" />
-</p>
+<!-- </p>
 
-<p align="center">
+<p align="center"> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TranPhong610198&theme=transparent" alt="Top Languages" />
 </p>
 <br>
